@@ -29,7 +29,7 @@ footer {
 }
 
 header {
-    visibility: hidden;
+    visibility: transparent;
 }
 
 .block-container {
