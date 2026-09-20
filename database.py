@@ -12,3 +12,4 @@ def connection():
     )
 
     return conn
+conn = connection()

@@ -1,6 +1,5 @@
-from database import connection
+from database import conn
 
-conn = connection()
 class Product:
 
     @staticmethod

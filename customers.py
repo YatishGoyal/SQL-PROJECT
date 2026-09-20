@@ -1,5 +1,5 @@
-from database import connection
-conn = connection()
+from database import conn
+
 
 class Customer:
     
